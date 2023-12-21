@@ -1,5 +1,5 @@
 {
-  "name": "devfolio",
+  "name": "gosia-fennell",
   "private": true,
   "description": "A modern and production-ready personal portfolio + blog template built with GatsbyJs and TailwindCSS",
   "version": "0.1.0",
@@ -35,9 +35,6 @@
     "prettier": "2.1.2",
     "tailwindcss": "^1.8.13"
   },
-  "keywords": [
-    "gatsby"
-  ],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -50,8 +47,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/RyanFitzgerald/devfolio"
-  },
-  "bugs": {
-    "url": "https://github.com/RyanFitzgerald/devfolio/issues"
   }
 }

@@ -3,19 +3,19 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Gosia Fennell',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Gosia Fennell | Senior Human Resources Professional`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Senior Human Resources Professional`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@gosiafennell`,
     // Optional: Github account URL
     github: `https://github.com/ryanfitzgerald`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/gosiafennell/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Seasoned Human Resources Director with 18 years of experience, specializing in strategic HR management for Global 1000 companies. Expertise in enhancing corporate HR operations, driving leadership development, and implementing effective talent management strategies. Proven track record in performance enablement, talent acquisition, and employee engagement. Skilled in developing robust HR policies, managing internal and external communications, and leading cross-functional project teams. Proficient in orchestrating global meetings and facilitating executive-level decision-making. Committed to social responsibility, actively volunteering at community shelters and food pantries.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
